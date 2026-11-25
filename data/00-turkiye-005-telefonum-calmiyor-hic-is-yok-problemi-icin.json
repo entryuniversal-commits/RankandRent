@@ -1,0 +1,18 @@
+{
+  "id": "00-turkiye-005-telefonum-calmiyor-hic-is-yok-problemi-icin",
+  "plaka": "00",
+  "il": "Türkiye Geneli",
+  "konuNo": 5,
+  "kategori": "Problem & Şikayet",
+  "odakKonu": "Telefonum çalmıyor hiç iş yok",
+  "baslik": "Telefonum çalmıyor hiç iş yok diyen işletme sahipleri için doğrudan müşteri hattı ve sanal dükkan metodolojisi",
+  "dosyaYolu": "docs/00-turkiye-005-telefonum-calmiyor-hic-is-yok-problemi-icin.md",
+  "kayitDosyaYolu": "data/kayitlar/00-turkiye-005-telefonum-calmiyor-hic-is-yok-problemi-icin.json",
+  "kurulumSuresi": "1 hafta",
+  "bolgeTekeli": true,
+  "webSitesiSarti": false,
+  "mevcutHesapMudahalesi": false,
+  "youtubeVideoId": null,
+  "youtubeUrl": null,
+  "guncellemeTarihi": "2026-11-25"
+}
