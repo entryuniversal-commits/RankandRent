@@ -1,0 +1,18 @@
+{
+  "id": "00-turkiye-000-geneli-uretim-ve-satis-kapasitesini",
+  "plaka": "00",
+  "il": "Türkiye Geneli",
+  "konuNo": null,
+  "kategori": "Bölgesel Talep Kanalı",
+  "odakKonu": "Bölgesel Talep Kanalı Metodolojisi",
+  "baslik": "Üretim ve Ticaret Kapasitesini Hazır Müşteri Hattıyla Doğrudan Satışa Dönüştürme Metodolojisi",
+  "dosyaYolu": "docs/00-turkiye-000-geneli-uretim-ve-satis-kapasitesini.md",
+  "kayitDosyaYolu": "data/kayitlar/00-turkiye-000-geneli-uretim-ve-satis-kapasitesini.json",
+  "kurulumSuresi": "1 hafta",
+  "bolgeTekeli": true,
+  "webSitesiSarti": false,
+  "mevcutHesapMudahalesi": false,
+  "youtubeVideoId": null,
+  "youtubeUrl": null,
+  "guncellemeTarihi": "2026-11-25"
+}
