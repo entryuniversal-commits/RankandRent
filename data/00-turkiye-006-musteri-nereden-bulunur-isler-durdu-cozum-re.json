@@ -1,0 +1,18 @@
+{
+  "id": "00-turkiye-006-musteri-nereden-bulunur-isler-durdu-cozum-re",
+  "plaka": "00",
+  "il": "Türkiye Geneli",
+  "konuNo": 6,
+  "kategori": "Problem & Şikayet",
+  "odakKonu": "Müşteri nereden bulunur işler durdu",
+  "baslik": "Müşteri nereden bulunur işler durdu diyen işletmeler için bölge tekeli odaklı talep kanalı metodolojisi",
+  "dosyaYolu": "docs/00-turkiye-006-musteri-nereden-bulunur-isler-durdu-cozum-re.md",
+  "kayitDosyaYolu": "data/kayitlar/00-turkiye-006-musteri-nereden-bulunur-isler-durdu-cozum-re.json",
+  "kurulumSuresi": "1 hafta",
+  "bolgeTekeli": true,
+  "webSitesiSarti": false,
+  "mevcutHesapMudahalesi": false,
+  "youtubeVideoId": null,
+  "youtubeUrl": null,
+  "guncellemeTarihi": "2026-11-25"
+}
